@@ -30,7 +30,7 @@ import shlex
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.mathjax',
+    'sphinx.ext.mathjax', 'sphinx.ext.todo'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -49,8 +49,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'DTP Computational Physiology'
-copyright = u'2015, Andre'
-author = u'Andre'
+copyright = u'2015, University of Auckland'
+author = u'University of Auckland'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -105,6 +105,8 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
 
+# If true, enable figure numbering
+numfig = True
 
 # -- Options for HTML output ----------------------------------------------
 
@@ -225,7 +227,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'DTPComputationalPhysiology.tex', u'DTP Computational Physiology Documentation',
-   u'Andre', 'manual'),
+   u'University of Auckland', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
