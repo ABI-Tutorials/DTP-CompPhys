@@ -13,6 +13,10 @@ This series of tutorials will first guide you through the main steps in a "stand
 .. note::
 
    That final step is not part of the May 2015 trial run. 
+   
+.. note::
+
+   Anonymous feedback on any part of the May 2015 trial run of this module can be left at: https://goo.gl/6XpHxp
 
 Contents:
 
