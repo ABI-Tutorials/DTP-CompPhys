@@ -4,3 +4,6 @@
 [submodule "source/simulation"]
 	path = source/simulation
 	url = https://github.com/ABI-Tutorials/DTP-Simulation.git
+[submodule "source/visualisation"]
+	path = source/visualisation
+	url = https://github.com/ABI-Tutorials/DTP-Visualisation
