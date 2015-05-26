@@ -1,0 +1,6 @@
+[submodule "source/segmentation"]
+	path = source/segmentation
+	url = https://github.com/ABI-Tutorials/DTP-Segmentation.git
+[submodule "source/simulation"]
+	path = source/simulation
+	url = https://github.com/ABI-Tutorials/DTP-Simulation.git

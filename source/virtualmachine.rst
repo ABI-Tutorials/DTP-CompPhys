@@ -8,9 +8,12 @@ For the May 2015 trial run of the Computational Physiology module, we provide a 
 Some useful things to note regarding the provided virtual machine are provided below.
 
 * The default username is ``abi`` with the password ``abipassword``.
+* In all the task and example descriptions, :file:`{HOME}` is used to indicate the folder :file:`/home/abi/`.
 * `OpenCOR <http://opencor.ws>`_ is installed and can be launched via the shortcut on the desktop.
 
 .. todo::
 
    * add in more useful links in the virtual machine
    * make sure the password is what is specified above.
+   * check consistent use of HOME
+   
