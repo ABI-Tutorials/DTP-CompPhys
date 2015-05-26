@@ -21,6 +21,6 @@ The goal of these tutorials is to make you aware of the key skills required at e
    :maxdepth: 2
    
    segmentation/source/index
-   modelbuilding/source/index
+   modelconstruction/source/index
    simulation/source/index
    visualisation/source/index

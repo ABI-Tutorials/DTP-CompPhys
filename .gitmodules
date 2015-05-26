@@ -7,3 +7,6 @@
 [submodule "source/visualisation"]
 	path = source/visualisation
 	url = https://github.com/ABI-Tutorials/DTP-Visualisation
+[submodule "source/modelconstruction"]
+	path = source/modelconstruction
+	url = https://github.com/ABI-Tutorials/DTP-ModelConstruction.git
