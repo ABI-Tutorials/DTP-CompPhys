@@ -1,0 +1,3 @@
+[submodule "source/segmentation"]
+	path = source/segmentation
+	url = https://github.com/ABI-Tutorials/DTP-Segmentation.git
