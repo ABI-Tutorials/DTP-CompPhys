@@ -15,7 +15,7 @@ In :numref:`fig_dtp_cp_exampleworkflow` you can see an example of a clinical wor
    
    An example of a clinical workflow, showing the steps in the process which form the basis for the Computational Physiology module.
    
-The goal of these tutorials is to make you aware of the key skills required at each step in the process described above and in :numref:`fig_dtp_cp_exampleworkflow`. We achieve this here by leading you through some examples of the various skills and demonstrate their applicability across a range of organ systems and spatial scales. The final step (5) described above is part of the :ref:`final module <dtp_cp_mskworkflow>` in the Computational Physiology module, but the remainder of the steps are described here.
+The goal of these tutorials is to make you aware of the key skills required at each step in the process described above and in :numref:`fig_dtp_cp_exampleworkflow`. We achieve this here by leading you through some examples of the various skills and demonstrate their applicability across a range of organ systems and spatial scales.
 
 .. toctree::
    :maxdepth: 2
@@ -24,3 +24,4 @@ The goal of these tutorials is to make you aware of the key skills required at e
    modelconstruction/source/index
    simulation/source/index
    visualisation/source/index
+   completeworkflow/source/index

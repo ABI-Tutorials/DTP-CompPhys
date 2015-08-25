@@ -10,3 +10,6 @@
 [submodule "source/modelconstruction"]
 	path = source/modelconstruction
 	url = https://github.com/ABI-Tutorials/DTP-ModelConstruction.git
+[submodule "source/completeworkflow"]
+	path = source/completeworkflow
+	url = https://github.com/ABI-Tutorials/DTP-CompleteWorkflow.git

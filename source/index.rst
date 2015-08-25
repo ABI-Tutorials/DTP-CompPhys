@@ -22,7 +22,6 @@ Contents:
    virtualmachine
    clinicalworkflows
    modellingbestpractices
-   mskworkflow
    todolist
 
 
