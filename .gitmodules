@@ -13,3 +13,6 @@
 [submodule "source/completeworkflow"]
 	path = source/completeworkflow
 	url = https://github.com/ABI-Tutorials/DTP-CompleteWorkflow.git
+[submodule "source/opencor-tutorial"]
+	path = source/opencor-tutorial
+	url = https://github.com/ABI-Tutorials/CellML-OpenCOR-PMR.git

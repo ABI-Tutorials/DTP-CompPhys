@@ -30,7 +30,9 @@ import shlex
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.mathjax', 'sphinx.ext.todo'
+    'sphinx.ext.todo',
+    'sphinx.ext.mathjax',
+    'sphinxcontrib.bibtex'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -49,7 +51,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'DTP Computational Physiology'
-copyright = u'2015, University of Auckland'
+copyright = u'2015-2016, University of Auckland'
 author = u'University of Auckland'
 
 # The version info for the project you're documenting, acts as replacement for
