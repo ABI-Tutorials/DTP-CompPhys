@@ -19,7 +19,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   virtualmachine
    clinicalworkflows
    modellingbestpractices
    todolist
