@@ -14,7 +14,7 @@ This series of tutorials will first guide you through the main steps in a "stand
 
 .. note::
 
-   Anonymous feedback on any part of this module can be left at: https://goo.gl/6XpHxp
+   Anonymous feedback on any part of this module can be left at: http://goo.gl/forms/0OOhzkwnFo
 
 Contents:
 
