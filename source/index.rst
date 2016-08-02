@@ -24,6 +24,7 @@ Finally, the course ends with an introduction to some of the key tools that are 
    :numbered:
    
    clinicalworkflows
+   projects
    modellingbestpractices
    software
    todolist

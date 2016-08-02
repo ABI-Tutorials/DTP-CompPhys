@@ -16,3 +16,6 @@
 [submodule "source/opencor-tutorial"]
 	path = source/opencor-tutorial
 	url = https://github.com/ABI-Tutorials/CellML-OpenCOR-PMR.git
+[submodule "source/projects/femurfitting"]
+	path = source/projects/femurfitting
+	url = https://github.com/ABI-Tutorials/DTP-Project-FemurFitting
