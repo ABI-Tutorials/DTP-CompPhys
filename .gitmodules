@@ -19,3 +19,6 @@
 [submodule "source/projects/femurfitting"]
 	path = source/projects/femurfitting
 	url = https://github.com/ABI-Tutorials/DTP-Project-FemurFitting
+[submodule "source/projects/parameterestimation"]
+	path = source/projects/parameterestimation
+	url = https://github.com/ABI-Tutorials/DTP-Project-ParameterEstimation
