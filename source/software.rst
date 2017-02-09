@@ -21,18 +21,4 @@ To get the best out of the MAP Client you will need to get some plugins, by defa
 OpenCOR
 -------
 
-Instructions for obtaining and using `OpenCOR <http://opencor.ws/>`_ are covered in the :ref:`cellml_opencor_pmr_tutorial_index`.
-
-OpenCMISS-Neon
---------------
-
-OpenCMISS-Neon is a frontend application for the simulation and visualisation of finite element models.  This application is currently under development working towards a version 1.0.0.  The application is avaiable from `OpenCMISS-Neon <https://github.com/OpenCMISS/neon>`_ in source form only.
-   
-OpenCMISS-Iron & OpenCMISS-Zinc
--------------------------------
-
-OpenCMISS-Iron the computational engine and OpenCMISS-Zinc the visualisation engine are at the heart of most of the OpenCMISS collection of software tools are available from `OpenCMISS.org <opencmiss.org>`_.  They are also available separately for simulating and visualising computational models.  Both of these software libraries come with Python bindings to enable the creation of bespoke applications.
-
-.. todo::
-
-   What other tools should be mentioned?
+Instructions for obtaining and using `OpenCOR <http://opencor.ws/>`_ are covered in the :ref:`cellml_opencor_pmr_tutorial__installation`.
