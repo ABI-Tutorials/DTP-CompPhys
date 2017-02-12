@@ -5,6 +5,12 @@ Software Tools
 
 Here we introduce the tools used in this module and provide instructions for getting them set up to perform the tasks in this module.
 
+.. toctree::
+   :hidden:
+   
+   opencor-tutorial/source/install
+   
+
 .. contents::
 
 MAP Client
