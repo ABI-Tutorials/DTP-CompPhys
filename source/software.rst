@@ -5,12 +5,6 @@ Software Tools
 
 Here we introduce the tools used in this module and provide instructions for getting them set up to perform the tasks in this module.
 
-.. toctree::
-   :hidden:
-   
-   opencor-tutorial/source/install
-   
-
 .. contents::
 
 MAP Client
@@ -28,3 +22,8 @@ OpenCOR
 -------
 
 Instructions for obtaining and using `OpenCOR <http://opencor.ws/>`_ are covered in the :ref:`cellml_opencor_pmr_tutorial__installation`.
+
+.. toctree::
+   :hidden:
+   
+   opencor-tutorial/source/install
