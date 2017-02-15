@@ -86,6 +86,35 @@ The primary unit of information in PMR is the workspace. Each workspace is a ver
 
 **Extra for experts:**  if you look through the `PMR documentation <https://models.physiomeproject.org/docs>`_ you will be able to find information on how to submit your workspaces to make them public, share them directly with collaborators, and make *exposures* for specific revisions of the workspace.
 
+A bond graph-based method for representing physiology
+=====================================================
+
+A new field of research that has emerged recently is the application of bond graph theory to the field of systems biology and physiology. This is providing the theoretical framework to guide the development of core modules that can be arbitrarily combined to capture a wide range of physiological phenomena. Combining this framework with CellML has started to provide an extremely powerful technology for both defining core modules spanning the required physics and the methods for integrating these modules into models of physiological systems.
+
+As this is a new and rapidly evolving field of research, the documentation is still being developed. This section of the DTP Computational Physiology module will be largely be taught using powerpoint slides that will be made available on the day.
+
+Some references that are relevant to this work are given here for convenience.
+
+* Paynter H. Analysis and Design of Engineering Systems (MIT, Cambridge, Mass., 1961).
+* Oster G, Perelson A, and Katchalsky A. 1971. Network thermodynamics. *Nature* (Lond.). 234:393.
+* Gawthrop PJ and Crampin EJ. Energy based analysis of biochemical cycles using bond graphs. *Proc. R. Soc. A* 470:20140459, 2014.
+* Gawthrop PJ and Crampin EJ. Modular bond-graph modelling and analysis of biomolecularsystems. *IET Systems Biology*, 2015.
+* Gawthrop PJ, Cursons J and Crampin EJ. Hierarchical bond graph modelling of biochemical networks. *Proc. R. Soc A*, 471(2184), 2015.
+* Gawthrop PJ, Siekmann I, Kameneva T, Saha S, Ibbotson MR and Crampin EJ. The energetic cost of the action potential: bond graph modelling of electrochemical energy transduction in excitable membranes. arXiv:1512.00956.
+
+Example models
+--------------
+
+A collection of models is available for this section of the module. The following steps can be used to create your own copy of these models for use in the tutorial.
+
+#. Go to http://teaching.physiomeproject.org/workspace/464 in your web browser.
+#. Make sure you are logged in to the teaching instance of PMR.
+#. Click on :guilabel:`Fork` in the workspace menu, followed by the :guilabel:`Fork` button. This will create your own private copy of the workspace containing these example models.
+#. In OpenCOR, make sure you are :ref:`logged into the teaching instance of PMR <cellml_opencor_pmr_tutorial__pmr_with_opencor>`.
+#. You might need to click the :guilabel:`Reload` button (green arrow) to update the window to show your copy of the :guilabel:`Example bond graph models` workspace.
+#. Right-click on the example bond graph models workspace folder and :menuselection:`Clone...` the workspace (as per :ref:`step 5 <cellml_opencor_pmr_tutorial__pmr_with_opencor>`).
+
+You will now have a copy of the example models on your computer.
 
 OpenCOR tutorial
 ================
