@@ -22,3 +22,6 @@
 [submodule "source/projects/parameterestimation"]
 	path = source/projects/parameterestimation
 	url = https://github.com/ABI-Tutorials/DTP-Project-ParameterEstimation
+[submodule "source/projects/bondgraphs"]
+	path = source/projects/bondgraphs
+	url = https://github.com/ABI-Tutorials/DTP-Project-BondGraphs
