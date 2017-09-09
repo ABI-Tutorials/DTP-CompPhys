@@ -21,7 +21,7 @@ Following the clinical workflow tutorials we venture into deeper into the world 
 Finally, several mini-projects are offered for students to work through on their own or in groups. These projects will collectively demonstrate the application of all the previous material in *real life* scientific research scenarios.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents
    :numbered:
    
@@ -30,6 +30,16 @@ Finally, several mini-projects are offered for students to work through on their
    modellingbestpractices
    projects
    todolist
+   
+In addition to the material above, we provide here some further material that is relevant to this module. This includes the PMR user documentation and a tutorial introducing CellML, OpenCOR, and PMR.
+
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+   
+   opencor-tutorial/source/index
+   PMR2/index
+   
 
 
 

@@ -116,15 +116,3 @@ A collection of models is available for this section of the module. The followin
 
 You will now have a copy of the example models on your computer.
 
-OpenCOR tutorial
-================
-
-For reference, the complete tutorial on CellML, OpenCOR, and PMR (from which the material presented above is reused) is given here. It is not directly part of the DTP computational physiology module, but does provide some useful information and we still need to better extract the bits we need.
-
-
-.. toctree::
-   :maxdepth: 2
-   
-   opencor-tutorial/source/index
-   
-   

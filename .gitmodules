@@ -25,3 +25,6 @@
 [submodule "source/projects/bondgraphs"]
 	path = source/projects/bondgraphs
 	url = https://github.com/ABI-Tutorials/DTP-Project-BondGraphs
+[submodule "source/PMR2"]
+	path = source/PMR2
+	url = https://github.com/PMR2/PMR2userdocs
