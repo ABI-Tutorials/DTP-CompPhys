@@ -113,12 +113,12 @@ Example models
 
 A collection of models is available for this section of the module. The following steps can be used to create your own copy of these models for use in the tutorial.
 
-#. Go to http://teaching.physiomeproject.org/workspace/464 in your web browser.
+#. Go to http://teaching.physiomeproject.org/workspace/2cd in your web browser.
 #. Make sure you are logged in to the teaching instance of PMR.
 #. Click on :guilabel:`Fork` in the workspace menu, followed by the :guilabel:`Fork` button. This will create your own private copy of the workspace containing these example models.
 #. In OpenCOR, make sure you are :ref:`logged into the teaching instance of PMR <cellml_opencor_pmr_tutorial__pmr_with_opencor>`.
 #. You might need to click the :guilabel:`Reload` button (green arrow) to update the window to show your copy of the :guilabel:`Example bond graph models` workspace.
-#. Right-click on the example bond graph models workspace folder and :menuselection:`Clone...` the workspace (as per :ref:`step 5 <cellml_opencor_pmr_tutorial__pmr_with_opencor>`).
+#. Right-click on the example bond graph models workspace folder and :menuselection:`Make Local Workspace Copy...` the workspace (as per :ref:`step 5 <cellml_opencor_pmr_tutorial__pmr_with_opencor>`).
 
 You will now have a copy of the example models on your computer.
 
