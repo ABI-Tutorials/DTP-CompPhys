@@ -21,7 +21,7 @@ To get the best out of the MAP Client you will need to get some plugins, by defa
 OpenCOR
 -------
 
-Instructions for obtaining and using `OpenCOR <http://opencor.ws/>`_ are covered in the :ref:`cellml_opencor_pmr_tutorial__installation`. If you are using one of the DTP laptops, then the correct version of OpenCOR will already be installed, but for the purposes of this module you need to install the *12 August 2017 snapshot*, or newer, verison of OpenCOR.
+Instructions for obtaining and using `OpenCOR <http://opencor.ws/>`_ are covered in the :ref:`cellml_opencor_pmr_tutorial__installation`. If you are using one of the DTP computers, then the correct version of OpenCOR will already be installed, but for the purposes of this module you need to install the *17 March 2018 snapshot*, or newer, verison of OpenCOR.
 
 Getting to know OpenCOR
 +++++++++++++++++++++++
