@@ -3,7 +3,13 @@
 Clinical Workflows
 ==================
 
-In :numref:`fig_dtp_cp_exampleworkflow` you can see an example of a clinical workflow that adopts a computational physiology approach. In summary: 1) clinical observations are made (in this example, images from a mamographic scan); 2) a model is customised to those observations (a geometric model specific to the given patient); 3) simulations are performed as part of the investigation (simulating mamographic compression on the geometrical model to determine the affect on internal structures); 4) some kind of visualisation is performed to help interpret the simulation results in regard to the clinical observations (registering mamographic and MRI images to highlight potential calcifications in the breast tissue); and 5) the preceeding steps are wrapped into a customised user interface which can be provided to the clincians for them to execute these steps in the clinc.
+In :numref:`fig_dtp_cp_exampleworkflow` you can see an example of a clinical workflow that adopts a computational physiology approach. In summary: 
+
+#. Clinical observations are made (in this example, images from a mamographic scan).
+#. A model is customised to those observations (a geometric model specific to the given patient).
+#. Simulations are performed as part of the investigation (simulating mamographic compression on the geometrical model to determine the affect on internal structures).
+#. Some kind of visualisation is performed to help interpret the simulation results in regard to the clinical observations (registering mamographic and MRI images to highlight potential calcifications in the breast tissue).
+#. The preceeding steps are wrapped into a customised user interface which can be provided to the clinicians for them to execute these steps in the clinic.
 
 .. _fig_dtp_cp_exampleworkflow:
 
@@ -19,6 +25,7 @@ The goal of these tutorials is to make you aware of the key skills required at e
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
    
    segmentation/source/index
    modelconstruction/source/index
