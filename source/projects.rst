@@ -7,7 +7,7 @@ In these projects we attempt to use "real world" scenarios to demonstrate the pr
 
 .. toctree::
    :maxdepth: 1
-   
+      
    projects/parameterestimation/source/index
    projects/femurfitting/source/femurproject
    projects/bondgraphs/source/index
