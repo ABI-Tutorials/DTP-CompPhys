@@ -8,12 +8,14 @@
 Doctoral Training Programme: Computational Physiology
 ===========================================================
 
-Welcome to the Computational Physiology module of the Doctoral Training Programme(DTP) from the `MedTech CoRE <http://cmdt.org.nz>`_.
+Welcome to the Computational Physiology module of the Doctoral Training Programme (DTP) from the `MedTech CoRE <http://cmdt.org.nz>`_.
 
 .. note::
 
    DTP Computational Physiology module documentation release |release|.
    Some previous releases are available at: http://readthedocs.org/projects/dtp-compphys/versions/
+   
+   Anonymous feedback on any part of this module can be left at: http://goo.gl/forms/0OOhzkwnFo.
    
 Overview
 ********
