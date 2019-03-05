@@ -33,6 +33,10 @@ Connecting OpenCOR to your PMR account
 Once you have OpenCOR installed, we want to connect it to PMR to enable you to archive and share your work. If you follow the instructions over at :ref:`cellml_opencor_pmr_tutorial__pmr_with_opencor` to create an account on the teaching instance of the Physiome Model Repository (PMR) and then set up OpenCOR to use that account. You can use this `CellML model <https://models.physiomeproject.org/workspace/25d/rawfile/c702d05c6a698b7b97dbb5b106600a16abfbff97/lorenz.cellml>`_ as the test model for that part of the tutorial. 
 
 Here is a video tutorial explaining `how to connect the PMR with OpenCOR <https://drive.google.com/file/d/16ojS0PCx7VZeKjAtNiCbX919TloC613c/view?usp=sharing>`_.
+		 		   
+.. raw:: html
+			
+	<iframe src="https://drive.google.com/file/d/16ojS0PCx7VZeKjAtNiCbX919TloC613c/preview" width="640" height="440" allowfullscreen></iframe>	
 
 .. include:: PMR2/teaching-instance-warning.rst
 
