@@ -36,9 +36,7 @@ Here is a video tutorial explaining `how to connect the PMR with OpenCOR <https:
 		 		   
 .. raw:: html
 			
-	<iframe src="https://drive.google.com/file/d/16ojS0PCx7VZeKjAtNiCbX919TloC613c/preview" width="640" height="440" allowfullscreen></iframe>
-	
-|	
+	<iframe src="https://drive.google.com/file/d/16ojS0PCx7VZeKjAtNiCbX919TloC613c/preview" width="640" height="440" allowfullscreen></iframe>	
 
 .. include:: PMR2/teaching-instance-warning.rst
 
