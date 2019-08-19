@@ -36,6 +36,7 @@ Finally, several mini-projects are offered for students to work through on their
    software
    clinicalworkflows
    modellingbestpractices
+   bondgraphtools
    projects
    todolist
    
