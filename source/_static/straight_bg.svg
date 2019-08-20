@@ -419,12 +419,12 @@
        xml:space="preserve"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:16.73640251;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00aa00;stroke-width:0.17712693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:16.73640251;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.17712693"
          y="181.25226"
          x="160.97346"
          id="tspan24079"
          sodipodi:role="line">1:v<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;baseline-shift:sub;stroke-width:0.17712693"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;baseline-shift:sub;stroke-width:0.17712693;fill:#008000"
    id="tspan24077">2</tspan></tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.80000003, 0.40000001;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -545,9 +545,9 @@
          id="tspan2271"
          x="132.92763"
          y="181.25226"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:16.73640251;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#00aa00;stroke-width:0.17712693">1:v<tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:16.73640251;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.17712693">1:v<tspan
    id="tspan2269"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;baseline-shift:sub;stroke-width:0.17712693">1</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8344444px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;baseline-shift:sub;stroke-width:0.17712693;fill:#008000">1</tspan></tspan></text>
     <path
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
