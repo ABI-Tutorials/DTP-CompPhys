@@ -222,15 +222,19 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="599.56927"
-     inkscape:cy="560"
+     inkscape:cy="398.37559"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="2880"
-     inkscape:window-height="1706"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1163"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid86" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -239,7 +243,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -253,7 +257,7 @@
        id="rect815"
        width="39.288624"
        height="162.49986"
-       x="128.85568"
+       x="128.32114"
        y="110.75007" />
     <ellipse
        style="opacity:1;fill:#d80df7;fill-opacity:1;stroke:none;stroke-width:2.29999995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -433,7 +437,7 @@
          id="tspan1179"
          x="22.210596"
          y="288.93686"
-         style="stroke-width:0.21166666;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;stroke:none;stroke-opacity:1;">High concentration</tspan></text>
+         style="stroke-width:0.21166666;-inkscape-font-specification:'Ubuntu Italic';font-family:Ubuntu;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;stroke:none;stroke-opacity:1">High concentration</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21166666"
@@ -444,18 +448,18 @@
          id="tspan1183"
          x="197.44012"
          y="289.28754"
-         style="stroke-width:0.21166666;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">Low concentration</tspan></text>
+         style="stroke-width:0.21166666;-inkscape-font-specification:'Ubuntu Italic';font-family:Ubuntu;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">Low concentration</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21166666"
-       x="125.70055"
+       x="127.54993"
        y="289.2366"
        id="text1189"><tspan
          sodipodi:role="line"
          id="tspan1187"
-         x="125.70055"
+         x="127.54993"
          y="289.2366"
-         style="stroke-width:0.21166666;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">Membrane</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';stroke-width:0.21166666">Membrane</tspan></text>
     <ellipse
        style="opacity:1;fill:#d80df7;fill-opacity:0.19047618;stroke:none;stroke-width:2.29999995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path817-2-8-4-2-4-6-5-8-6-5-7-5-3"
@@ -508,12 +512,12 @@
     <text
        id="text1280"
        y="99.289688"
-       x="108.87761"
+       x="114.16927"
        style="font-style:normal;font-weight:normal;font-size:12.69999981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3175"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.3175"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.3175"
          y="99.289688"
-         x="108.87761"
+         x="114.16927"
          id="tspan1278"
          sodipodi:role="line">&quot;Diffusion&quot;</tspan></text>
     <path
